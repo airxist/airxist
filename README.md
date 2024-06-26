@@ -1,1 +1,1 @@
-## SETTING UP
+<img align='right' src='https://visitor-badge.loabi.icu/badge?page_id=airxist.airxist' />
