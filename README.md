@@ -40,11 +40,9 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/airxist/airxist/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <a href="https://github.com/airxist">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=airxist&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airxist&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <hr/>
