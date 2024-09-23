@@ -32,9 +32,6 @@ I'm a frontend developer specializing in TypeScript, JavaScript, React, and Vue.
   </a>
 </div>
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josemaria-ofurum-07b878201/)
-[![Twitter](https://img.shields.io/badge/)](https://x.com/betahandz)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
