@@ -1,19 +1,25 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=airxist.airxist" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Josemaria+Ofurum!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=10000&lines=Hi+There!+👋;+I'm+Josemaria;Welcome+to+my+Github+Profile!" />
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
+## 🚀 About Me
 
-<br/>
+I'm a frontend developer specializing in TypeScript, JavaScript, React, and Vue. I enjoy creating responsive and user-friendly web applications.
 
-<div align="center">
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Vue, NodeJs**
- </div>
- 
+## 🏢 Currently
+
+- ⛑ Buliding Eco Ride
+- 📈 Learing more about ![React](https://img.shields.io/badge/)
+
+## 🛠️ Skills
+
+![TypeScript](https://img.shields.io/badge/)
+![JavaScript](https://img.shields.io/badge/)
+![React](https://img.shields.io/badge/)
+![Vue](https://img.shields.io/badge/)
+
 <div align="center"> 
   <a href="mailto:Josemariaofurum@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -26,8 +32,10 @@
   </a>
 </div>
 
- <hr/>
- 
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josemaria-ofurum-07b878201/)
+[![Twitter](https://img.shields.io/badge/)](https://x.com/betahandz)
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -40,21 +48,8 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+  
 <div align="center">
-  <a href="https://github.com/airxist">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=airxist&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airxist&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://raw.githubusercontent.com/airxist/airxist/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
