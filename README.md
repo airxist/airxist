@@ -15,10 +15,7 @@ I'm a frontend developer specializing in TypeScript, JavaScript, React, and Vue.
 
 ## 🛠️ Skills
 
-![TypeScript](https://img.shields.io/badge/)
-![JavaScript](https://img.shields.io/badge/)
-![React](https://img.shields.io/badge/)
-![Vue](https://img.shields.io/badge/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue)](https://skillicons.dev)
 
 ## 🌐 Connect With Me
 
